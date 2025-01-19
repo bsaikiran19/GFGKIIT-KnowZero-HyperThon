@@ -46,6 +46,10 @@ I, Boiri Saikiran, with my team, created a Library Management System using C lan
  4 - Now by putting the choice number, you can avail yourself of all features present in there.
 
 
+5 - And for the login page the username is, "admin123", and the password is, "password123".
+
+
+
 
 ## Authors
 
